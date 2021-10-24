@@ -1,6 +1,7 @@
 <script>
 	import Header from '$lib/Header.svelte';
     import Section from '$lib/Section.svelte';
+    import Footer from '$lib/Footer.svelte';
     let myInfo = {
         title: "Info",
         item1: "Dylan",
@@ -23,9 +24,7 @@
 
 </script>
  
-<Header title = "My Biography">
-    
-</Header>
+<Header title = "My Biography"/>
 
 <Section {...myInfo} />
 
@@ -33,3 +32,4 @@
 
 <Section {...myPosonality} />
     
+<Footer gitHub ="https://github.com/dylan99913/refactored-octo-broccoli" />
