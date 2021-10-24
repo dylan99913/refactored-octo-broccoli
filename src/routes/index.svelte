@@ -32,4 +32,4 @@
 
 <Section {...myPosonality} />
     
-<Footer gitHub ="https://github.com/dylan99913/refactored-octo-broccoli" />
+<Footer gitHub =a href="https://github.com/dylan99913/refactored-octo-broccoli" />
