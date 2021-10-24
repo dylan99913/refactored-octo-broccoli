@@ -13,6 +13,5 @@
     
 </Header>
 
-<Section {...myInfo} >
+<Section {...myInfo} />
     
-</Section>
